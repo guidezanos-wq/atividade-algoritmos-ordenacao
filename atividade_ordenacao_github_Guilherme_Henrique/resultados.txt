@@ -1,0 +1,19 @@
+RESULTADOS DO EXPERIMENTO
+
+Tamanho 10
+Bubble Sort: 45 comparações | 26 trocas
+Insertion Sort: 33 comparações | 34 movimentações
+Selection Sort: 45 comparações | 6 trocas
+Quick Sort: 29 comparações | 10 movimentações
+
+Tamanho 20
+Bubble Sort: 175 comparações | 87 trocas
+Insertion Sort: 101 comparações | 105 movimentações
+Selection Sort: 190 comparações | 15 trocas
+Quick Sort: 65 comparações | 27 movimentações
+
+Tamanho 1000
+Bubble Sort: 498015 comparações | 243076 trocas
+Insertion Sort: 244070 comparações | 244070 movimentações
+Selection Sort: 499500 comparações | 994 trocas
+Quick Sort: 10234 comparações | 4878 movimentações
